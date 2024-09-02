@@ -1,71 +1,21 @@
-<div align="center">
-  <img height="150" src="http://www.gravatar.com/avatar/cebcc433ac3d529c1d26383d32d1672c?size=250"  />
-</div>
+# 💫 About Me:
+### Recommended Elements for a GitHub Introduction:<br>1. **Personal Touch**: Start with a friendly greeting and a bit about yourself.<br>2. **Specialization**: Highlight your main areas of expertise.<br>3. **Notable Projects**: Mention a few key projects with a brief description.<br>4. **Skills**: List your core technical skills.<br>5. **Interests and Hobbies**: Share some personal interests to show your personality.<br>6. **Engagement**: Encourage visitors to explore your repositories and connect with you.<br>7. **Visuals**: Use emojis or images to make it visually appealing.<br><br>### How to Make It Interesting and Stand Out:<br>- **Be Authentic**: Write in a way that reflects your personality.<br>- **Use Humor**: A light-hearted tone can make your profile more engaging.<br>- **Show Passion**: Let your enthusiasm for your work shine through.<br>- **Be Concise**: Keep it short and to the point.<br>- **Visual Appeal**: Use formatting, emojis, and images to break up text and add interest.<br><br>### GitHub Introduction:<br><br>---<br><br>👋 **Hello, world! I'm Muhammad Sadegh Nemat Pour** 👋<br><br>I'm a passionate software developer specializing in **data science** and **artificial intelligence**. My GitHub is a playground where I experiment with innovative ideas and build cool projects. 🚀<br><br>### 🌟 Notable Projects:<br>- **Cachooly**: A lightweight proxy for caching LLM API calls using MongoDB and JSON. It enhances response times and reduces costs in AI applications. Check it out [here](https://github.com/MSNP1381/Cachooly)! 💡<br><br>### 🛠️ Skills:<br>- Proficient in multiple programming languages and tools<br>- Strong problem-solving abilities<br>- Strategic thinker with a love for continuous learning<br><br>### 🎯 Interests:<br>- Watching chess videos ♟️<br>- Engaging in intellectual pursuits and challenges
 
-###
 
-<div align="center">
-  <a href="https://t.me/msnp1381" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/msnp1381/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mohamadnematpoor@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Msnp1381) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__msnp__) 
 
-###
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Msnp1381&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Msnp1381&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Msnp1381&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=msnp1381.msnp1381&"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Msnp1381&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Msnp1381&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Muhammad sadegh nemat pour<br><br>- 📚 I'm currently learning data science<br>- ⚡ In my free time I watch chess videos</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msnp1381&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msnp1381&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=msnp1381&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
