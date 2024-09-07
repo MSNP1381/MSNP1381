@@ -1,5 +1,24 @@
-# 💫 About Me:
-### Recommended Elements for a GitHub Introduction:<br>1. **Personal Touch**: Start with a friendly greeting and a bit about yourself.<br>2. **Specialization**: Highlight your main areas of expertise.<br>3. **Notable Projects**: Mention a few key projects with a brief description.<br>4. **Skills**: List your core technical skills.<br>5. **Interests and Hobbies**: Share some personal interests to show your personality.<br>6. **Engagement**: Encourage visitors to explore your repositories and connect with you.<br>7. **Visuals**: Use emojis or images to make it visually appealing.<br><br>### How to Make It Interesting and Stand Out:<br>- **Be Authentic**: Write in a way that reflects your personality.<br>- **Use Humor**: A light-hearted tone can make your profile more engaging.<br>- **Show Passion**: Let your enthusiasm for your work shine through.<br>- **Be Concise**: Keep it short and to the point.<br>- **Visual Appeal**: Use formatting, emojis, and images to break up text and add interest.<br><br>### GitHub Introduction:<br><br>---<br><br>👋 **Hello, world! I'm Muhammad Sadegh Nemat Pour** 👋<br><br>I'm a passionate software developer specializing in **data science** and **artificial intelligence**. My GitHub is a playground where I experiment with innovative ideas and build cool projects. 🚀<br><br>### 🌟 Notable Projects:<br>- **Cachooly**: A lightweight proxy for caching LLM API calls using MongoDB and JSON. It enhances response times and reduces costs in AI applications. Check it out [here](https://github.com/MSNP1381/Cachooly)! 💡<br><br>### 🛠️ Skills:<br>- Proficient in multiple programming languages and tools<br>- Strong problem-solving abilities<br>- Strategic thinker with a love for continuous learning<br><br>### 🎯 Interests:<br>- Watching chess videos ♟️<br>- Engaging in intellectual pursuits and challenges
+
+##  👋 **Hello, world! I'm Muhammad Sadegh Nemat Pour** 
+
+I'm a passionate developer  in **data science** and **artificial intelligence**. My GitHub is a playground where I experiment with innovative ideas and build cool projects. 🚀
+
+![visit Counts](https://visitcount.itsvg.in/api?id=Msnp1381&icon=5&color=1)
+
+### 🌟 Notable Projects:
+- **Cachooly**: A lightweight proxy for caching LLM API calls using MongoDB and JSON. It enhances response times and reduces costs in AI applications. Check it out [here](https://github.com/MSNP1381/Cachooly)! 💡
+- **Awesome AI Cheaters**: a project for reporting for AI content theft.Check it out [here](https://github.com/MSNP1381/awesome-persian-ai-cheaters)
+### 🛠️ Skills:
+
+- Proficient in multiple programming languages and tools( like Python,Js,C#)
+- Strong problem-solving abilities
+- Strategic thinker with a love for continuous learning
+
+### 🎯 Interests:
+- Working out
+- Eating dark Chocolate
+- Watching chess videos ♟️
+- Engaging in intellectual pursuits and challenges
 
 
 ## 🌐 Socials:
@@ -8,14 +27,10 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Msnp1381&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Msnp1381&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Msnp1381&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Msnp1381&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Msnp1381&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
