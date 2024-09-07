@@ -5,6 +5,14 @@ I'm a passionate developer  in **data science** and **artificial intelligence**.
 
 ![visit Counts](https://visitcount.itsvg.in/api?id=Msnp1381&icon=5&color=1)
 
+### what is my forward path
+> These thing are my goal in Tech world some of them are achieved some of them not. 
+> but with every check point you may notice all you knew was nothing and you have to learn more 
+- #1 everything about agents and automation and autonomy
+- AI Democratizing
+- LLM Agents
+- Data Governance
+- I love every thing E2E and self-contained
 ### 🌟 Notable Projects:
 - **Cachooly**: A lightweight proxy for caching LLM API calls using MongoDB and JSON. It enhances response times and reduces costs in AI applications. Check it out [here](https://github.com/MSNP1381/Cachooly)! 💡
 - **Awesome AI Cheaters**: a project for reporting for AI content theft.Check it out [here](https://github.com/MSNP1381/awesome-persian-ai-cheaters)
