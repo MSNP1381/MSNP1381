@@ -14,6 +14,7 @@ I'm a passionate developer  in **data science** and **artificial intelligence**.
 - Data Governance
 - I love every thing E2E and self-contained
 ### 🌟 Notable Projects:
+- **Kaggle Agent**: An agent that solves kaggle problems autonomously via plan-enhance-exexute architecture. Check it out [here](https://github.com/MSNP1381/kaggl-agent)!
 - **Cache-cool**: A lightweight proxy for caching LLM API calls using MongoDB and JSON. It enhances response times and reduces costs in AI applications. Check it out [here](https://github.com/MSNP1381/cache-cool)! 💡
 - **Awesome AI Cheaters**: a project for reporting for AI content theft.Check it out [here](https://github.com/MSNP1381/awesome-persian-ai-cheaters)
 ### 🛠️ Skills:
