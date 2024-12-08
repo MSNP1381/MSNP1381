@@ -33,10 +33,6 @@ I'm a passionate developer in **Data science** and **Artificial intelligence**. 
 - Watching chess videos ♟️
 - Engaging in intellectual pursuits and challenges
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Msnp1381) 
-
-[X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 
 
 # 📊 GitHub Stats:
