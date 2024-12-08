@@ -34,11 +34,16 @@ I'm a passionate developer in **Data science** and **Artificial intelligence**. 
 - Engaging in intellectual pursuits and challenges
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Msnp1381) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Msnp1381) 
+
+[X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Msnp1381&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Msnp1381&theme=dark&hide_border=true)
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Msnp1381&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repos
